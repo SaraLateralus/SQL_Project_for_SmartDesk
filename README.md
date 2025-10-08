@@ -1,0 +1,1 @@
+Snowflake SQL analysis for “Smart Desk”: cleaned data, profiled category revenue, compared APAC vs EMEA performance, segmented industries by profit, reconciled forecast vs actuals, and assessed unit economics to guide actions
